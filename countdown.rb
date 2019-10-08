@@ -3,8 +3,8 @@
 def countdown(num)
   num = 10
   while num != 0
-    num -= 1
     puts "#{num} SECONDS!"
+    num -= 1
   end
 end
 

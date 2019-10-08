@@ -7,4 +7,5 @@ def countdown(num)
   end
 end
 
+countdown(10)
 
